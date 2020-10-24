@@ -7,7 +7,7 @@ Find it please. Btw, he loves talking about dinosaurs.
 
 ## Attachments
 
-`https://github.com/ainzs-evil-twin/roof-saurus/blob/main/roof_saurus.png`  
+`https://github.com/ainzs-evil-twin/roof-saurus/blob/main/roof-saurus/roof_saurus.png`  
 ![Funny Image](../roof-saurus/roof_saurus.png)
 
 ## Flag format
