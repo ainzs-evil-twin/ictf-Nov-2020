@@ -2,7 +2,7 @@
 
 ## Description
 
-Corporate needs you to find the difference between [this picture](../same-picures/chess1.jpg) and [this picture](../same-pictures/chess2.jpg)
+Corporate needs you to find the differences between [this picture](../same-pictures/chess1.jpg) and [this picture](../same-pictures/chess2.jpg)
 
 ## Attachments
 
