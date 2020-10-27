@@ -9,7 +9,7 @@ Try to recover the flag hidden in [this image](../Xissors-Or-Rock/weird_1.png) w
 
 `https://github.com/ainzs-evil-twin/ictf-Nov-2020/blob/main/Xissors-Or-Rock/COFFEEx3_1.png`  
 `https://github.com/ainzs-evil-twin/ictf-Nov-2020/blob/main/Xissors-Or-Rock/weird_1.png`
-![coffee](../Xissors-Or-Rock/weird_1.png) ![noise](../Xissors-Or-Rock/COFFEEx3_1.png)
+![coffee](../Xissors-Or-Rock/COFFEEx3_1.png) ![noise](../Xissors-Or-Rock/weird_1.png)
 
 ## Flag format
 
