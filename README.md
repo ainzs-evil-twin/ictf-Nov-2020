@@ -9,6 +9,8 @@ My challenge submissions for Imaginary CTF for the month of November 2020.
 
 - [all-the-shares](../main/all-the-shares/README.md)
 - [DTMF](../main/DTMF/README.md)
+- [duality](../main/duality/README.md)
+- [flag-sequencing](../main/flag-sequencing/README.md)
 - [Lo-Siento-Bella](../main/Lo-Siento-Bella/README.md)
 - [modern-images](../main/modern-images/README.md)
 - [RestInPeace-john](../main/RestInPeace-john/README.md)
