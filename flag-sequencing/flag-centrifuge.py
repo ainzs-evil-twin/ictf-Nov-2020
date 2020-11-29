@@ -23,9 +23,9 @@ def encode_to_decimal(text):
     """
     return int.from_bytes(text.encode('utf-8'), byteorder='big')
 
-def generate_complimentary_strand(strand):
+def generate_complementary_strand(strand):
     """
-    Generates a strand complimentary to any given strand
+    Generates a strand complementary to any given strand
     """
     # <REDACTED>
 
@@ -49,8 +49,8 @@ def generate_all_fragments(strand):
     return fragments
 
 FLAG_DECIMAL = encode_to_decimal(FLAG_TEXT)
-COMPLIMENTARY = generate_complimentary_strand(FLAG_DECIMAL)
-FLAG_B5 = decimal_to_base_5(COMPLIMENTARY)
+COMPLEMENTARY = generate_complementary_strand(FLAG_DECIMAL)
+FLAG_B5 = decimal_to_base_5(COMPLEMENTARY)
 FRAGMENTS = generate_all_fragments(FLAG_B5)
 
 
